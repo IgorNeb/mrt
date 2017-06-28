@@ -1,0 +1,312 @@
+body{
+  margin: 0;
+  
+}
+.ban img{
+  width: 100%;
+}
+
+@font-face {
+    font-family: ProximaNova; /* Имя шрифта */
+    src: url(ProximaNova/ProximaNovaRegular.otf); /* Путь к файлу со шрифтом */
+   }
+
+.action {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    background-color: red;
+    font-family: "ProximaNova";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.2;
+    padding: 10px;
+    font-style: italic;
+}
+
+
+.logo{
+  background: #fbfbfb;
+  position: relative;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 0px;
+}
+
+/* г.Киев, ул.Вышгородская 6 */
+.logo1{   
+  position: absolute;
+  left: 230px;
+  top: 30px;
+  font-size: 15px;
+  font-family: "ProximaNova";
+  color: #0067a2;
+  
+}
+/* tochka */
+.logo2{
+  position: absolute;
+  left: 200px; 
+  top: 30px;
+}
+/* //(044) 383-88-77 */
+.logo3{
+  position: absolute; 
+  left: 490px;
+  top: 30px;
+  font-size: 15px;
+  font-family: "ProximaNova";
+  color: #0067a2;
+}
+/* //smartphone */
+.logo4{
+  position: absolute;
+  left: 470px;
+  top: 30px;
+}
+/* //(044) 430-77-33 */
+.logo5{
+  position: absolute;
+  left: 640px;
+  top: 30px;
+  font-size: 15px;
+  font-family: "ProximaNova";
+  color: #0067a2;
+}
+/* //smartphone */
+.logo6{
+  position: absolute;
+  left: 620px;
+  top: 30px;
+}
+.logo7{
+  position: absolute;
+  left: 840px;
+  top: 30px;
+ 
+}
+
+.logo8{
+  position: absolute;
+  left: 860px;
+  top: 30px;
+   font-size: 15px;
+  font-family: "ProximaNova";
+  color: #0067a2;
+}
+/* //forma */
+.logo9{
+  position: absolute;
+  right:  0px;
+  top: 20px;
+}
+
+
+.ls{
+  background-color: f9f9f9;
+}
+.list-inline a {
+    background-color: f9f9f9;
+    font-size: 19px;    
+    padding: 15px 0;
+    display: block;
+    color: #666;
+} 
+.list-inline {
+  background-color: f9f9f9;
+    padding-left: 0;
+    margin-left: -5px;
+    list-style: none;
+    display: table;
+    width: 100%;
+   
+}
+.list-inline > li {
+    background-color: f9f9f9;
+    display: table-cell;
+    padding-right: 5px;
+    padding-left: 5px;
+    text-align: center;
+}
+
+
+.list-inline-logo{
+  background-color: fbfbfb;
+
+  padding-left: 20px;
+  margin-right: 20px;
+  margin-left: 160px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+#blk{  
+  position: relative;
+
+}
+
+#man{
+  position: relative;
+  left: 130px;
+  z-index: 1; 
+}
+
+#pic1{
+  position: absolute;
+  z-index: 2;
+  top: 40px;
+  left: 360px; 
+}
+
+#pic2{
+  position: absolute;
+  z-index: 2;
+  top: 160px;
+  left: 350px;
+}
+
+#pic3{
+  position: absolute;
+  z-index: 2;
+  top: 370px;
+  left: 430px;
+}
+
+#pic4{
+  position: absolute;
+  z-index: 2;
+  top: 250px;
+  left: 50px;
+}
+
+#pic5{
+  position: absolute;
+  z-index: 2;
+  top: 280px;
+  left: 350px;
+}
+
+#pic6{
+  position: absolute;
+  z-index: 2;
+  top: 80px;
+  left: 180px;
+}
+
+#pic7{
+  position: absolute;
+  z-index: 2;
+  top: 330px;
+  left: 140px;
+
+}
+
+#rg{
+  position: relative;
+  background: red; 
+}
+
+#magnetic{  
+  font-size: 30px;
+  font-family: "ProximaNova";
+  color: rgb(78, 77, 77);
+  font-weight: bold;
+  line-height: 1.2;
+  position: relative;
+  left: 80px;
+  width: 400px
+
+}
+
+
+
+.main2  {
+  font-size: 30px;
+  font-family: "ProximaNova";
+  color: rgb(78, 77, 77);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  
+}
+.main3 {
+
+  font-size: 30px;
+  font-family: "Myriad Pro";
+  color: rgb(78, 77, 77);
+  line-height: 0.667;
+  text-align: center;
+    
+}
+
+.main4 {
+
+  font-size: 30px;
+  font-family: "Myriad Pro";
+  color: rgb(78, 77, 77);
+  line-height: 0.667;
+  text-align: center;
+    
+}
+
+.main5 {
+
+  font-size: 30px;
+  font-family: "Myriad Pro";
+  color: rgb(78, 77, 77);
+  line-height: 0.667;
+  text-align: center;
+    
+}
+
+.main6 {
+
+  font-size: 30px;
+  font-family: "Myriad Pro";
+  color: rgb(78, 77, 77);
+  line-height: 0.667;
+  text-align: center;
+    
+}
+
+.main7 {
+
+  font-size: 30px;
+  font-family: "Myriad Pro";
+  color: rgb(78, 77, 77);
+  line-height: 0.667;
+  text-align: center;
+    
+}
+
+.map > iframe{
+  width: 100%;
+  height:400px
+}
+
+ul .hr li {
+    display: inline; 
+  }
+
+.topls{
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+    display: table-cell;
+    
+    text-align: center;
+  }
+
+  div .list-inline{
+    background: #f9f9f9;
+  }
+
+  a:active {
+    color: red;
+
+  }
+
+a:hover{
+  color: #227dae;
+}
